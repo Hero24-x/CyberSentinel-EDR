@@ -191,7 +191,7 @@ CyberSentinel EDR is intended for educational, research, and portfolio purposes.
 
 ## Author
 
-**Hero**
+**Shibnath Hansda (Hero)**
 
 Cybersecurity Analyst | Blue Team Enthusiast | Threat Detection & Endpoint Security
 
